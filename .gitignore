@@ -11,8 +11,10 @@ dat_*
 
 *.txt
 *.dat
-*.pdf
+#*.pdf
 *.log
+
+Papers/
 
 *.gif
 *.png
